@@ -1,4 +1,4 @@
-![React Amplify Authentication Banner](https://raw.githubusercontent.com/collectedview/react-amplify-authentication/main/public/react-amplify-authentication.png)
+![React Amplify Authentication Banner](https://raw.githubusercontent.com/heyitsjoealongi/react-amplify-authentication/main/public/react-amplify-authentication.png)
 
 # React Amplify Authentication
 
@@ -19,12 +19,12 @@ A barebones application for emulating the connectivity between AWS Amplify Authe
 
 React Amplify Authentication is a template for connecting React Applications to AWS Amplify Authentication.
 
-![GitHub stars](https://img.shields.io/github/stars/collectedview/react-amplify-authentication?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/collectedview?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/heyitsjoealongi/react-amplify-authentication?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/heyitsjoealongi?label=Follow&style=social)
 
-- Website: [collectedview.io](https://collectedview.io)
-- Twitter: [@collectedview](https://twitter.com/collectedview)
-- GitHub: [@collectedview](https://github.com/collectedview)
-- LinkedIn: [@collectedview](https://www.linkedin.com/in/collectedview)
+- Website: [heyitsjoealongi.com](https://heyitsjoealongi.com/)
+- Twitter: [@heyitsjoealongi](https://twitter.com/heyitsjoealongi/)
+- GitHub: [@heyitsjoealongi](https://github.com/heyitsjoealongi/)
+- LinkedIn: [@heyitsjoealongi](https://www.linkedin.com/in/heyitsjoealongi/)
 
 ## Build
 
@@ -49,14 +49,14 @@ This project runs on Node.js while the DOM UI elements are established using Rea
 
 ### Installation
 
-- **Option 1.)** [Download the latest version of this template from GitHub](https://github.com/collectedview/react-amplify-authentication/archive/refs/heads/main.zip)
+- **Option 1.)** [Download the latest version of this template from GitHub](https://github.com/heyitsjoealongi/react-amplify-authentication/archive/refs/heads/main.zip)
 - **Option 2.)** Clone this repository
 
 ```
-                  git clone https://github.com/collectedview/react-amplify-authentication.git
+                  git clone https://github.com/heyitsjoealongi/react-amplify-authentication.git
 ```
 
-- **Option 3.)** [Fork, Clone, or Download via GitHub Desktop](x-github-client://openRepo/https://github.com/collectedview/react-amplify-authentication)
+- **Option 3.)** [Fork, Clone, or Download via GitHub Desktop](x-github-client://openRepo/https://github.com/heyitsjoealongi/react-amplify-authentication)
 
 ### Basic Usage
 
@@ -76,7 +76,7 @@ npm start
 
 ##### Bugs and Issues
 
-Having an issue with the template? Report bugs & issues with React Amplify Authentication on GitHub via [Issues](https://github.com/collectedview/react-amplify-authentication/issues). Fork, Pull, or Send an email over to join as a contributor! Join in on the open source conversation on [Twitter](https://twitter.com/collectedview).
+Having an issue with the template? Report bugs & issues with React Amplify Authentication on GitHub via [Issues](https://github.com/heyitsjoealongi/react-amplify-authentication/issues). Fork, Pull, or Send an email over to join as a contributor! Join in on the open source conversation on [Twitter](https://twitter.com/heyitsjoealongi).
 
 ##### Acknowledgments
 
@@ -87,4 +87,4 @@ Having an issue with the template? Report bugs & issues with React Amplify Authe
 
 ##### License
 
-© 2023 React Amplify Authentication released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [React Amplify Authentication License](https://github.com/collectedview/react-amplify-authentication/blob/main/LICENSE).
+© 2023 React Amplify Authentication released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [React Amplify Authentication License](https://github.com/heyitsjoealongi/react-amplify-authentication/blob/main/LICENSE).
